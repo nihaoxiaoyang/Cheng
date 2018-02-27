@@ -38,3 +38,7 @@ ribbon/src/main/resources/static/
 ribbon/src/main/resources/templates/
 src/
 target/
+.mvn/
+mvnw
+mvnw.cmd
+pom.xml
